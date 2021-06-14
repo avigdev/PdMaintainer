@@ -2,7 +2,7 @@
 Cookiecutter for backend
 ======================
 
-Cookiecutter_ template for research modules
+Cookiecutter_ template for backend modules
 
 .. _Cookiecutter: https://github.com/cookiecutter/cookiecutter
 
